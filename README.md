@@ -1,7 +1,7 @@
 # 🎬 README - Projeto Web Filmes
 
 ## 🍿 Nome do Filme Escolhido
-**Enigma de Outro Mundo 1982**
+**Enigma de Outro Mundo**
 
 ---
 
